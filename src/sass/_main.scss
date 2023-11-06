@@ -1,0 +1,10 @@
+@use 'vars' as v;
+
+body{
+    background-color: v.$red_color;
+}
+
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
