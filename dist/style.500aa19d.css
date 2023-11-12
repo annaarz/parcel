@@ -1,5 +1,6 @@
 header {
   background-color: rgb(154, 100, 0);
+  border: 2px red solid;
 }
 
 body {
